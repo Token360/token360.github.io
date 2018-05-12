@@ -232,6 +232,25 @@ Need 5 steps to import the Bitfinex's API key
 
 ![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-c4654e9a4b34e366.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+获取Gateio的API Key总共需要4个步骤
+
+1、在电脑PC端登录Gateio官网，点击页面左上角的一排选项中的“我的财务”选项
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-9db0eb514a3e1b9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、找左侧边栏的API Keys选项，点击
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-6841a6ddd8fcea64.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、然后根据提示验证创建API Key
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-4b48c229b359fa32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、创建好Key以后，会显示Key和二维码，在Token360的Gateio授权页面扫码或者手动录入授权，然后完成授权。
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-59bec25de03ee21a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 Privacy Policy of Token360
