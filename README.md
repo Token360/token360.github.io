@@ -295,6 +295,51 @@ Need 4 steps to import the Bibox’s API Key
 ![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-fcee3e48b6763d1c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+获取Kucoin的API Key总共需要5个步骤
+
+1、在电脑PC端登录Kucoin官网，在页面顶部找到“账号中心”并点击到账号中心页面，在页面的左侧招到API Keys选项然后点击
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-9af1798c65f39bcc.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、招到“创建”按钮，然后点击
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-8bba88d27dedf3c3.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、创建完毕后，Kucoin会给你的注册邮箱发一封确认邮件，点击“确认”按钮
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-7373d0dad11e9083.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、打开邮箱，找到Kucoin发来的邮件，然后点击“确认”按钮
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-c440a6c99c726cd5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5、页面会显示API Key和Secret，关闭本教程，在Token360手动授权页面，录入Key和Secret，然后完成授权。
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-fd34dd7361ed2ac7.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+Need 5 steps to import the Kucoin’s API Key
+
+1、Log in to the Kucoin's official website，find the Account item on the top of the page then click it. Find the API keys item on the left of the page then click it.
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-bbd891e7c34761c2.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Find the “Create” button on the bottom of the page, and then click it
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-9fdc6f0478882e93.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、After you finish the authentication, you will get an conformation email dialog, then click cofirm
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-1196bd8b547731ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、Open your Email, find the email from Kucoin, and click the Confirm button
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-621f9f30d66340fe.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5、You will see the API key & Secret on the page, Close this tutorial and enter the Access Key and Private Key(Secret) into the Token360 app to finish the key importing.
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-dc90e4d6eae9338d.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 Privacy Policy of Token360
 This Application collects some Personal Data from its Users.
