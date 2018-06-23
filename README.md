@@ -250,6 +250,49 @@ Need 5 steps to import the Bitfinex's API key
 
 ![image.png](https://upload-images.jianshu.io/upload_images/624625-59bec25de03ee21a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+获取Bibox的API Key总共需要6个步骤
+
+1、在电脑PC端登录Bibox官网，鼠标指向页面顶部个人中心的圆形头像，会有下拉菜单，然后点击账户信息
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-ed42ead87b5c79aa.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、在页面中底部招到API选项，点击 添加 按钮
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-ede1768e6618fb3f.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、输入备注后，点击创建新key按钮
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-4c489b3c66879a2c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、完成相关认证后，会在页面显示被隐藏掉的API Key和Secret，点击 展示 按钮
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-0f9ab6dc2b6ebb99.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5、页面会显示二维码，以及Secret，关闭本教程，在Token360手动授权页面，扫码录入Key和Secret，然后完成授权。
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-5d5a3f3b1775b866.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+Need 4 steps to import the Bibox’s API Key
+
+1、Log in to the Hitbtc's official website，Move the mouse to profile logo on the top of the page, there will be a dropdown menu. Then find the Account Information item  and click it.
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-89a6fe5ba62034fa.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Find the API item on the bottom of the page, and then click the Add button
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-1993ee9572a723f3.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、Enter the remark of the API key and then click Create button
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-45dbe249b9e96b51.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、After you finishing the authentication, the API key will be created successfully, then click the show button
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-881a7bcc3ef423eb.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5、You will see the QRcode and the API key & Secret, Close this tutorial and scan the QRCode with the Token360 app to finish the key importing.
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-fcee3e48b6763d1c.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
