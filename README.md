@@ -339,6 +339,80 @@ Need 5 steps to import the Kucoin’s API Key
 
 ![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-dc90e4d6eae9338d.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+获取Bit-z的API Key总共需要3个步骤
+
+1、在电脑PC端登录Bit-Z官网，在页面顶部右上角找到“用户中心”并点击到账号中心页面
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-b4243200cb756cb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、在页面的左侧找到API选项，然后在页面上找到“创建新KEY”按钮，点击后完成创建
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-0b5141d80d00c9a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、创建完毕后，在页面上会出现API Keys以及二维码，页面会显示API Key和Secret，关闭本教程，在Token360扫码完成授权。
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-4976d15fea137cc5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+Need 3 steps to import the Bit-Z’s API Key
+
+1、Log in to the Bit-Z's official website，find the Account center on the right top of the page then click it. 
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-4d7614bb0e871c6c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Find the API option on the left of the page and click it. Then find the “Create New Key” button on the bottom of the page, click and create a new key
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-23ee9c1e39351a4e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、After the creation, you will see the API key & Secret and the QRCode on the page, Close this tutorial and user Token360 app to Scan the QRCode to finish the key importing.
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-c634223298857a32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+获取满币网的的API Key总共需要5个步骤
+
+1、在电脑PC端登录满币官网，在页面顶部找到“个人中心”并点击到个人中心页面
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-6acddbc599e977c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、在页面左侧找到 “我的API”选项，找到“创建API”按钮，然后点击
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-ebc0174a590832a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、不需要填写IP白名单，然后点击确定完成创建
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-0b0646c54b9e6b5f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、在页面上找到“查看”按钮，点击它
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-df7eca0320194918.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5、页面会显示API Key和Secret，关闭本教程，在Token360手动授权页面，录入Key和Secret，然后完成授权。
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-f24cdda354c644b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+Need 5 steps to import the Coinbene’s API Key
+
+1、Log in to the Coinbene's official website，find the Account item on the top of the page then click it. 
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-e0026e495a8cf468.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Find the“My API” option on the left of the page then click it.Find the “Create API” button on the page, and then click it
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-e18576f2c9778ff4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、Don’t fill in the IP List. Click “OK” button to finish the creation.
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-63a70b0dee6502e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、Find the “Reveal” button and click it to check the secret Key
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-fec5b1414969aabf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+5、You will see the API key & Secret on the page, Close this tutorial and enter the Access Key and Private Key(Secret) into the Token360 app to finish the key importing.
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-8a359c3bf4e3649d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 Privacy Policy of Token360
