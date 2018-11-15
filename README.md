@@ -414,6 +414,22 @@ Need 5 steps to import the Coinbene’s API Key
 
 
 
+获取ZB-com的API Key总共需要3个步骤
+
+1、在电脑PC端登录ZB-com官网，鼠标移动到页面右上角个人中心按钮会有下拉菜单
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-54098b9fec7b636d.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、点击API设置选项，输入备注名和Goolge验证码，右边选项第一项打勾，点击创建按钮
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-2e623ff1685a1cd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、创建成功后，关闭教程，然后使用Token360扫码完成授权或者手动录入Access Key和 Secret Key完成授权。（请复制下Access和Secre备份）
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-5b165b5f49f008d9.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
 
 Privacy Policy of Token360
 This Application collects some Personal Data from its Users.
