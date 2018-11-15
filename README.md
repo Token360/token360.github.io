@@ -1,3 +1,39 @@
+获取Coinbase Pro的API Key总共需要4个步骤
+
+1、在电脑PC端登录Coinbase Pro官网，进入个人中心，点击Settings（安全）按钮，然后点击API Access，再点击New API Key（新API密钥）
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-01a248edfda6b419.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、然后手机接收验证码，输入验证码后点击Verify（验证）
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-a46006d11f9c34e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、如图所示选项查询相关权限打勾，然后点击（Create）创建密钥
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-e1fe92a70ee96970.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、创建成功后，关闭教程，然后手动录入API Key和 API Secret完成授权。（请复制下API Key和API Secret备份）
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-e0f8101780bbfd1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+Need 4 steps to import CoinBase Pro’s API key
+
+1、Log in to the CoinBase Pro’s official website, enter the profile center and click Settings button, then click API Access button, you will find the New API Key and click it
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-b97e19148a5bc0ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Then enter the SMS verify code to verify it.
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-5013c26fe7c933a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、Check the inquiry permissions and click create
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-49d819301858d6f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、Then you should finish the Security authentication, the API key would be successfully created. Please backup the Access Key and private Key
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-9b99c4bc6a10ed94.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 Need 3 steps to import ZB-Com's API key
 
