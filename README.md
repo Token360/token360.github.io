@@ -1,3 +1,40 @@
+Need 4 steps to import Kraken’s API key
+
+1、Log in to the Kraken’s official website, click the Security button, then check Master Key Option On, at last click the “here” button on the bottom of the page
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-1713eaf40edb3e1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Click API button, then click Generate New Key button
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-3767062b3e68bb9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、Check the Query permissions and then click Generate Key
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-77d6602a1a2437e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、Then the API key will be showed with a QR code. Close this tutorial and scan QR code to finish the key importing.
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-34157058d469fd7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+获取Kraken的API Key总共需要4个步骤
+
+1、在电脑PC端登录Kraken官网，点击Security（安全）出现如图页面，然后点击Master Key （主密钥）打开这个选项（此设置需要双重认证），再点击here（在此处）![image.png](https://upload-images.jianshu.io/upload_images/624625-545aaa2f02ef0d73.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、点击API设置选项，然后点击Generate New Key（生成新密钥）
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-ea948ca06f04d04a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、如图所示查询选项打勾，然后点击（Generate Key）创建密钥
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-b78b6a438d1e9025.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+4、创建成功后，关闭教程，然后使用Token360扫码完成授权或者手动录入API Key和 Private Key完成授权。（请复制下API Key和Private Key备份）
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-52ac5352cf70783d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
 获取Coinbase Pro的API Key总共需要4个步骤
 
 1、在电脑PC端登录Coinbase Pro官网，进入个人中心，点击Settings（安全）按钮，然后点击API Access，再点击New API Key（新API密钥）
