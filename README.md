@@ -1,3 +1,19 @@
+
+Need 3 steps to import ZB-Com's API key
+
+1、Log in to the ZB-com's official website，move your mouse to personal center on the top-right corner
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-f88a00c887a878bd.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2、Click the API Setting，enter your remark and Google Authentication code，check the inquire permission on the right, then click Create API Secret Key button
+
+![image.png](https://upload-images.jianshu.io/upload_images/624625-d06a9dea4a125dfb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、Then the API key will be showed with a QR code. Close this tutorial and scan QR code to finish the key importing.
+
+![image.jpeg](https://upload-images.jianshu.io/upload_images/624625-fdbdc18b20e9c107.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 获取Hitbtc的API Key总共需要4个步骤
 
 1、在电脑PC端登录Hitbtc官网，点击页面右上角的设置选项，然后点击API Keys选项
